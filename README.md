@@ -27,9 +27,11 @@ The following STRETCH features are implemented:
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
+
 <p align="center">
-  <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+  <img src='https://imgur.com/Lj4uRXs.gif' title='Video Demo' width='' alt='Video Demo' />
 </p>
+
 GIF created with **ScreenToGif**
 
 <!-- Recommended tools:
