@@ -6,7 +6,7 @@ Time spent: **3** hours spent in total
 
 ## Summary
 
-**Pokemon Dictionary** is an android app that **fill in description (Example: "An app that displays a scrollable list of characters from the Marvel API")**
+**Pokemon Dictionary** is an android app that provides a scrollable and searchable list of Pokemon, utilizing the PokeAPI to fetch information. Users can view details about each Pokemon, including an image and name, with functionality to load data for a random Pokemon or search for one by name. The app enhances user interaction with features like infinite scrolling and search queries, making it a comprehensive tool for exploring Pokemon data.
 
 If I had to describe this project in three (3) emojis, they would be: **🔥🥬🌊**
 
@@ -41,7 +41,15 @@ GIF created with **ScreenToGif**
 
 ## Notes
 
-
+- **Random Generation Feature:** Enables spontaneous discovery of Pokemon through random generation.
+- **Search Functionality:** Allows for specific Pokemon searches by name.
+- **Infinite Scrolling:** Continuously loads new Pokemon data at the list's end for endless exploration.
+- **Interactive List Display:** Shows Pokemon details (image, name, description placeholder) in a scrollable format.
+- **Data Fetching and Handling:** Uses AsyncHttpClient for efficient network requests and JSON processing from the PokeAPI.
+- **User Feedback:** Provides interactive feedback with Toast messages upon selecting a Pokemon.
+- **Efficient Data Management:** Dynamically updates the Pokemon list using a MutableList and adapter notifications.
+- **Custom Adapter Implementation:** Manages RecyclerView binding with a focus on performance, including image handling with Glide.
+- **Modular Design:** Demonstrates organized and maintainable coding practices suitable for Android development.
 
 ## License
 
