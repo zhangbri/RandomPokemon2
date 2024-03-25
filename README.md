@@ -29,7 +29,7 @@ The following STRETCH features are implemented:
 Here's a video / GIF that demos all of the app's implemented features:
 
 <p align="center">
-  <img src='https://i.imgur.com/nE6avOs.gif' title='Video Demo' width='' alt='Video Demo' />
+  <img src="RandomPokemon2.gif" title='Video Demo' width='' alt='Video Demo' />
 </p>
 
 GIF created with **ScreenToGif**
